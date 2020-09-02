@@ -1,4 +1,4 @@
-# Haushaltsbuch App
+# Finanz-App
 
 > Für das Tracken von Einnahmen und Ausgaben über eine Python Applikation.
 
